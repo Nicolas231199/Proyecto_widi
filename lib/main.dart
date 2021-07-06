@@ -6,4 +6,10 @@ void main() {
       primaryColor: Colors.yellow,
       accentColor: Colors.grey,
     ),
-   
+    home: Scaffold(
+      appBar: AppBar(
+        title: Center(
+          child: Text("TAXI"),
+        ),
+      ),
+      
