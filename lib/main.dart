@@ -12,17 +12,4 @@ void main() {
           child: Text("TAXI"),
         ),
       ),
-      body: Container(
-        child: Center(
-          child: Text(
-            "Pagina principal",
-            style: TextStyle(fontSize: 40),
-          ),
-        ),
-        color: Colors.grey,
-      ),
-    ),
-  );
-
-  runApp(app);
-}
+   
